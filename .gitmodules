@@ -1,3 +1,6 @@
 [submodule "silent-nova-manuscript"]
 	path = silent-nova-manuscript
 	url = git@github.com:carlosrojas/silent-nova-manuscript.git
+[submodule "silen-nova-code"]
+	path = silen-nova-code
+	url = https://github.com/dimitriye98/quiet-star
